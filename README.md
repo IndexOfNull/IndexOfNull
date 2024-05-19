@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi! I'm Damien Kazewych.</h2>
 
-- 🎓 Undergraduate student studying Electrical Computer Engineering
+- 🎓 Undergraduate student studying Electrical and Computer Engineering
 - 📜 Currently focusing on improving my code documentation and writing technical explanations
 - 💪 Most experienced with Python and JavaScript
     - 🔎: I love exploring new languages and technologies. I'm acquainted (but less experienced with) Go, TypeScript, Lua, Java, C, C++, Vue, and React. 
